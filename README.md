@@ -21,7 +21,7 @@ Kebanyakan tweet-tweet di dataset ini adalah tweet-tweet yang positive.
 
 ### Evaluation Metrics
 
-Evaluasi metrik yang akan ditunjukkan adalah <b>Accuracy dan F1-Score (Macro-Average), dan ini hasilnya:
+Evaluasi metrik yang akan ditunjukkan adalah <b>Accuracy dan F1-Score (Macro-Average)</b>, dan ini hasilnya:
 
 | Classifier | Accuracy | F1-Macro Score |
 | :---: | :---: | :---: |
