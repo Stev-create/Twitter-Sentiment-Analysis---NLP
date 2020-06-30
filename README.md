@@ -21,5 +21,11 @@ Kebanyakan tweet-tweet di dataset ini adalah tweet-tweet yang positive.
 
 ### Evaluation Metrics
 
+| Classifier | Accuracy | F1-Macro Score |
+| :---: | :---: | :---: |
+| `Multinominal Naive Bayes` | 0.80 | 0.80 |
+
+Pada saat melakukan <i>sanity check</i>, sayangnya model tidak melakukannya dengan baik. Harus dilakukan hyperparameter tuning yang lebih baik atau melakukan pencarian model lainnya, selain Multinominal Naive Bayes. Namun karena tujuan dari project ini lebih mengarah ke sentiment analysis, jadi saya berhenti di model Naive Bayes.
+
 
 
