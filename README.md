@@ -21,6 +21,8 @@ Kebanyakan tweet-tweet di dataset ini adalah tweet-tweet yang positive.
 
 ### Evaluation Metrics
 
+Evaluasi metrik yang akan ditunjukkan adalah <b>Accuracy dan F1-Score (Macro-Average), dan ini hasilnya:
+
 | Classifier | Accuracy | F1-Macro Score |
 | :---: | :---: | :---: |
 | `Multinominal Naive Bayes` | 0.80 | 0.80 |
