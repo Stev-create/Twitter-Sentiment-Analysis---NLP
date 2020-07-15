@@ -14,7 +14,7 @@ Dari gambar di atas, dapat dilihat kontribusi-kontribusi Einstein di dunia fisik
 
 ### Sentiment Analysis
 
-![GitHub Logo](/images/2.png)
+![GitHub Logo](/images/a.png)
 
 
 Kebanyakan tweet-tweet di dataset ini adalah tweet-tweet yang positive.
